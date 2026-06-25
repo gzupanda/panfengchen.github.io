@@ -25,12 +25,12 @@
 
 # 🎓 教育经历
 <table class="cv-table"><tr><td class="cv-date">      
-      <i>2017.9&ensp; - 2022.6</i><br>
+      <i>2017.9&ensp; - 2021.12</i><br>
       <i>2008.9&ensp; - 2011.6</i><br>
       <i>2003.9&ensp; - 2007.6</i><br>
     </td><td>
       博士 - 贵州大学，计算机科学与技术学院(专业：软件工程，导师：<a href="https://www.mpu.edu.mo/esca/zh/yaoxiaojun.php">王以松教授</a>)<br>
-      硕士 - 华中师范大学，信息技术系(专业：教育技术学) 导师：<a href="https://www.mpu.edu.mo/esca/zh/yaoxiaojun.php">刘清堂 胡征兵教授</a>)<br>
+      硕士 - 华中师范大学，信息技术系(专业：教育技术学) 导师：<a href="https://jyjh.ccnu.edu.cn/info/1022/1130.htm">刘清堂 胡征兵教授</a>)<br>
       本科 - 三峡大学，田家炳教育学院(专业：教育技术学) <br>
     </td></tr>
 </table>
