@@ -6,7 +6,6 @@
 - 知识图谱：知识图谱的自动化构建、知识图谱的推理、知识图谱的应用  
 
 **交流ing**：非常希望跟各位专家建立联系，碰撞新思想，17880967889(微信同号)。    
-
 [**招生ing**]：硕博/联培/实习招募中。开学入门培训，全程精细指导，丰富计算资源，尽量帮每位同学发出一作一区论文，优秀者全力支持发子刊。   
 
 目前研究兴趣包括:  
@@ -45,6 +44,7 @@
       <a href="htps://quantum.tencent.com/">黔南州罗甸县教育局</a>，教研员<br>
     </td></tr>
 </table>
+
 **有志者事竟成！多段跨行业从业经历，跨专业读博并留校的经历，筑就不一样的团队特色！**
 <span class='anchor' id='jobs2'></span>    
 
@@ -61,7 +61,3 @@
     </td></tr>
 </table>
 <span class='anchor' id='projects'></span>  
-
-
-深度合作导师：[李晖¹](https://gpabl.gzu.edu.cn/2023/0807/c18863a195026/page.htm)联培导师³⁴。  
-深度合作伙伴：[陈使明](https://scholar.google.com/citations?hl=zh-CN&user=uyN1Gf4AAAAJ)，华中科技大学计算机科学与技术学院，特聘副教授，研究方向为人工智能。  
